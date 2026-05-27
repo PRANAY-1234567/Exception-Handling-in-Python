@@ -200,3 +200,5 @@ This gives more meaningful error messages.
 ## 📄 License
 
 This project is open-source and free to use.
+
+<img width="576" height="767" alt="image" src="https://github.com/user-attachments/assets/6a5e4a52-c64e-40e1-9afd-d43ba38fd3a0" />
